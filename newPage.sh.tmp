@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# page文件在编译时会被发布，但在自动生成的网站首页中不会有链接链到page页面中
+# 基于此特性，可以当作隐藏页面的功能使用
+# new page时会在`source`文件夹下新建[name]命名的文件夹
+hexo new page [name]

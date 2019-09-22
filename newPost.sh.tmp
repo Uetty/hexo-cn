@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# post文件会被发布，即正常发布的页面
+# 默认post源码文件夹是`/source/_posts`，由`_config.yml`文件的public_dir控制
+hexo new post [name]
