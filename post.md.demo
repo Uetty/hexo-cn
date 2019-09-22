@@ -1,0 +1,7 @@
+---
+title: my article				# 文章标题
+date: 2019-09-22 01:08:59		# 发布日期，影响到路径
+tags: tag1						# 标签（可以没有）
+permalink: custompath			# 指定文件日期后的路径替代原先以文件名作为的路径
+keywords: search_keyword		# meta标签中使用的关键字
+---
